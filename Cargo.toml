@@ -1,0 +1,8 @@
+[package]
+name = "shipthatcode-build-docker-rust"
+version = "0.1.0"
+edition = "2024"
+
+[[bin]]
+name = "shipthatcode-build-docker-rust"
+path = "main.rs"
